@@ -1,2 +1,2 @@
 # Digit-Recognizer
-Repository for Kaggle Digit Recognizer Challenge
+Repository for Kaggle Digit Recognizer Challenge written in Python Tensorflow.
